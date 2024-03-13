@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|d:\\code_space\\doanwinform\\quan_ly_quan_bida.net\\do_an_winform\\do_an_winform\\frm_quanlydoannuocuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_quanlydoannuocuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_quanlydoannuocuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_quanlydoannuocuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_quanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_quanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_quanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_quanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\do_an_winform\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A7CBDC-A0EB-410B-B97C-BDC3C6C27A0A}|Do_An_Winform\\Do_An_Winform.csproj|solutionrelative:do_an_winform\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_QuanLyDoAnNuocUong.cs",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs",
+              "RelativeToolTip": "Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:05:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_QuanLyDoAnNuocUong.cs [Design]",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs [Design]",
+              "RelativeToolTip": "Do_An_Winform\\frm_QuanLyDoAnNuocUong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:01:34.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Login.cs",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Login.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_Login.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Login.cs",
+              "RelativeToolTip": "Do_An_Winform\\frm_Login.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAnwFYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:10:15.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Main.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_Main.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Main.cs",
+              "RelativeToolTip": "Do_An_Winform\\frm_Main.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:05:27.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_QuanLyBan.cs",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyBan.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_QuanLyBan.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyBan.cs",
+              "RelativeToolTip": "Do_An_Winform\\frm_QuanLyBan.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:52:12.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QuanLyBan.cs [Design]",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyBan.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_QuanLyBan.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_QuanLyBan.cs [Design]",
+              "RelativeToolTip": "Do_An_Winform\\frm_QuanLyBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:40:23.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Main.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_Main.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Main.cs [Design]",
+              "RelativeToolTip": "Do_An_Winform\\frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:38:31.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_Login.cs [Design]",
+              "DocumentMoniker": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Login.cs",
+              "RelativeDocumentMoniker": "Do_An_Winform\\frm_Login.cs",
+              "ToolTip": "D:\\Code_Space\\DoAnWinform\\Quan_Ly_Quan_Bida.NET\\Do_An_Winform\\Do_An_Winform\\frm_Login.cs [Design]",
+              "RelativeToolTip": "Do_An_Winform\\frm_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T06:40:52.353Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
