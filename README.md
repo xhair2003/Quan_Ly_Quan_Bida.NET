@@ -1,1 +1,1 @@
-# Quan_Ly_Quan_Bida_C-
+# Quan_Ly_Quan_Bida
